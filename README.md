@@ -13,24 +13,29 @@
 ### 🧑‍💻 About me
 
 - 🎯 I build **web and mobile interfaces** with React, TypeScript and React Native.
-- 🛠️ Currently working on **[hd-techlabs-math-skills](https://github.com/BobbyAMK/hd-techlabs-math-skills)** — a Python skill set for the Rotura Math project.
 - 🌱 Learning **Python**, **AI agent tooling** and **backend fundamentals**.
 - 💬 Ask me about **React, TypeScript, SCSS, React Native, Ant Design**.
-- ⚡ Fun fact: I'm into **custom mechanical keyboards** ([JP01](https://github.com/BobbyAMK/JP01), [bakeneko-60](https://github.com/BobbyAMK/bakeneko-60)).
+- ⚡ I'm into **custom mechanical keyboards** ([JP01](https://github.com/BobbyAMK/JP01), [bakeneko-60](https://github.com/BobbyAMK/bakeneko-60)).
 
 ---
 
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="mailto:dinhphuoc.dp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:dinhphuoc.dp@gmail.com" title="Gmail">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" height="52" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/phuoc-dinh-chau-423209211/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/phuoc-dinh-chau-423209211/" title="LinkedIn">
+    <img src="https://img.icons8.com/color/96/linkedin.png" height="52" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/BobbyAMK">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/bobbyamk/" title="Facebook">
+    <img src="https://img.icons8.com/color/96/facebook-new.png" height="52" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/BobbyAMK" title="GitHub">
+    <img src="https://img.icons8.com/color/96/github.png" height="52" alt="GitHub" />
   </a>
 </p>
 
@@ -79,22 +84,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=BobbyAMK&hide_border=true&theme=tokyonight" alt="Streak stats" />
 </p>
-
-### 📈 Activity graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BobbyAMK&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
-</p>
-
----
-
-### 🐍 Contribution graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BobbyAMK/BobbyAMK/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BobbyAMK/BobbyAMK/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/BobbyAMK/BobbyAMK/output/github-snake.svg" />
-</picture>
 
 ---
 
