@@ -51,7 +51,7 @@
   </tr>
   <tr valign="top">
     <td>
-      <img src="https://skillicons.dev/icons?i=ts,js,react,reactnative,sass,html,css&perline=4" alt="core stack" /><br/>
+      <img src="https://skillicons.dev/icons?i=ts,js,react,androidstudio,sass,html,css&perline=4" alt="core stack" /><br/>
       <img src="https://skillicons.dev/icons?i=nodejs,git,github,vite,webpack,docker&perline=4" alt="tooling" />
     </td>
     <td>
@@ -79,10 +79,6 @@
 <p align="center">
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BobbyAMK&theme=tokyonight" alt="Stats" />
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BobbyAMK&theme=tokyonight&utcOffset=7" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BobbyAMK&hide_border=true&theme=tokyonight" alt="Streak stats" />
 </p>
 
 ---
