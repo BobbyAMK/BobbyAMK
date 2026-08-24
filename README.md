@@ -26,8 +26,7 @@
   <a href="mailto:dinhphuoc.dp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <!-- TODO: replace with your real LinkedIn URL -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
+  <a href="https://www.linkedin.com/in/phuoc-dinh-chau-423209211/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/BobbyAMK">
