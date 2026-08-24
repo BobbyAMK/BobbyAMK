@@ -50,11 +50,72 @@
   </tr>
   <tr valign="top">
     <td>
-      <img src="https://skillicons.dev/icons?i=ts,js,react,androidstudio,sass,html,css,tailwind&perline=4" alt="core stack" /><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,git,github,vite,webpack,docker&perline=4" alt="tooling" />
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" title="TypeScript">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" title="JavaScript">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      </a>
+      <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" title="React">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      </a>
+      <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer" title="Android Studio">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+      </a>
+      <br/>
+      <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer" title="Sass">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" title="HTML">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" title="CSS">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      </a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer" title="Tailwind CSS">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br/>
+      <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" title="Node.js">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" title="Git">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      </a>
+      <a href="https://github.com/" target="_blank" rel="noopener noreferrer" title="GitHub">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      </a>
+      <a href="https://vite.dev/" target="_blank" rel="noopener noreferrer" title="Vite">
+        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      </a>
+      <br/>
+      <a href="https://webpack.js.org/" target="_blank" rel="noopener noreferrer" title="Webpack">
+        <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
+      </a>
+      <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" title="Docker">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      </a>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,nextjs,graphql&perline=3" alt="learning" />
+      <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" title="Python">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      </a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" title="MySQL">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      </a>
+      <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer" title="TensorFlow">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      </a>
+      <br/>
+      <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer" title="PyTorch">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      </a>
+      <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer" title="Next.js">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      </a>
+      <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer" title="GraphQL">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+      </a>
     </td>
   </tr>
 </table>
