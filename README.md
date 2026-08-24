@@ -64,20 +64,27 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BobbyAMK&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyAMK&layout=compact&count_private=true&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BobbyAMK&theme=tokyonight" alt="Profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BobbyAMK&hide_border=true&theme=tokyonight" alt="Streak stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BobbyAMK&theme=tokyonight" alt="Repos per language" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BobbyAMK&theme=tokyonight" alt="Most commit language" />
 </p>
 
----
-
-### 🏆 Trophies
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BobbyAMK&theme=tokyonight" alt="Stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BobbyAMK&theme=tokyonight&utcOffset=7" alt="Productive time" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BobbyAMK&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://streak-stats.demolab.com/?user=BobbyAMK&hide_border=true&theme=tokyonight" alt="Streak stats" />
+</p>
+
+### 📈 Activity graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BobbyAMK&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 </p>
 
 ---
