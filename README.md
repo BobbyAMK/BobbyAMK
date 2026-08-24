@@ -47,18 +47,14 @@
   <tr>
     <th align="left">I work with</th>
     <th align="left">I'm learning</th>
-    <th align="left">In the memory banks</th>
   </tr>
   <tr valign="top">
     <td>
-      <img src="https://skillicons.dev/icons?i=ts,js,react,androidstudio,sass,html,css&perline=4" alt="core stack" /><br/>
+      <img src="https://skillicons.dev/icons?i=ts,js,react,androidstudio,sass,html,css,tailwind&perline=4" alt="core stack" /><br/>
       <img src="https://skillicons.dev/icons?i=nodejs,git,github,vite,webpack,docker&perline=4" alt="tooling" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,nextjs,tailwind,graphql&perline=2" alt="learning" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,swift,ruby&perline=3" alt="memory banks" />
+      <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,nextjs,graphql&perline=3" alt="learning" />
     </td>
   </tr>
 </table>
