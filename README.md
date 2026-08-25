@@ -122,7 +122,8 @@
 
 ---
 
-### 📊 GitHub Stats
+<!-- ĐANG TẠM ẨN — GitHub Stats
+     Bỏ dấu comment ở dưới để hiện lại.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BobbyAMK&theme=tokyonight" alt="Profile summary" />
@@ -138,6 +139,7 @@
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BobbyAMK&theme=tokyonight&utcOffset=7" alt="Productive time" />
 </p>
 
+-->
 ---
 
 <p align="center"><i>Thanks for stopping by! ⭐️ from <a href="https://github.com/BobbyAMK">BobbyAMK</a></i></p>
