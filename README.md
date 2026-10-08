@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Bobby 👋</h1>
-<h3 align="center">Frontend Developer — React · TypeScript · React Native</h3>
+<h3 align="center">Frontend Developer - React · TypeScript · React Native</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BobbyAMK&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -122,7 +122,7 @@
 
 ---
 
-<!-- ĐANG TẠM ẨN — GitHub Stats
+<!-- ĐANG TẠM ẨN - GitHub Stats
      Bỏ dấu comment ở dưới để hiện lại.
 
 <p align="center">
